@@ -50,7 +50,7 @@ function App() {
             muted 
             playsInline
           >
-            <source src="/valentine-video.mp4" type="video/mp4" />
+            <source src="valentine-video.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
 
